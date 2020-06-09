@@ -10,7 +10,7 @@ on:
 jobs:
 
   # Run test of rules
-  components:
+  rules:
     runs-on: ubuntu-latest
 
     strategy:
