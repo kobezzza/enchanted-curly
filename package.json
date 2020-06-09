@@ -27,11 +27,13 @@
     "export"
   ],
   "scripts": {
-    "test": "npx eslint ./**/*.js && node tests"
+    "test": "npm run test:eslint && npm run test:rules",
+    "test:eslint": "npx eslint ./**/*.js",
+    "test:rules": "node tests"
   },
   "husky": {
     "hooks": {
-      "pre-push": "npm run test"
+      "pre-push": "npm test"
     }
   },
   "dependencies": {},
