@@ -1,6 +1,6 @@
 # eslint-plugin-curly
 
-A set of more customizable rules for eslint/curly than original rules.
+A set of more customizable rules for eslint/curly.
 
 ## Installation
 
