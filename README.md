@@ -1,4 +1,4 @@
-# enchanted-curly
+# eslint-plugin-enchanted-curly
 
 A set of more customizable rules for eslint/curly.
 
@@ -10,10 +10,10 @@ You'll first need to install [ESLint](http://eslint.org):
 $ npm i eslint --save-dev
 ```
 
-Next, install `enchanted-curly`:
+Next, install `eslint-plugin-enchanted-curly`:
 
 ```
-$ npm install enchanted-curly --save-dev
+$ npm install eslint-plugin-enchanted-curly --save-dev
 ```
 
 **Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `eslint-plugin-curly` globally.

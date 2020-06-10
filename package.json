@@ -1,5 +1,5 @@
 {
-  "name": "enchanted-curly",
+  "name": "eslint-plugin-enchanted-curly",
   "description": "A set of more customizable rules for eslint/curly",
   "homepage": "https://github.com/kobezzza/enchanted-curly#readme",
   "version": "1.0.1",
