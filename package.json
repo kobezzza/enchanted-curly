@@ -1,7 +1,7 @@
 {
   "name": "eslint-plugin-enchanted-curly",
   "description": "A set of more customizable rules for eslint/curly",
-  "homepage": "https://github.com/kobezzza/enchanted-curly#readme",
+  "homepage": "https://github.com/kobezzza/eslint-plugin-enchanted-curly#readme",
   "version": "1.0.1",
   "license": "MIT",
   "main": "lib/index.js",
@@ -12,10 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kobezzza/enchanted-curly"
+    "url": "git+https://github.com/kobezzza/eslint-plugin-enchanted-curly"
   },
   "bugs": {
-    "url": "https://github.com/kobezzza/enchanted-curly/issues"
+    "url": "https://github.com/kobezzza/eslint-plugin-enchanted-curly/issues"
   },
   "keywords": [
     "eslint",
