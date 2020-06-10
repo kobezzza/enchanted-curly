@@ -1,4 +1,4 @@
-# eslint-plugin-curly
+# enchanted-curly
 
 A set of more customizable rules for eslint/curly.
 
@@ -10,10 +10,10 @@ You'll first need to install [ESLint](http://eslint.org):
 $ npm i eslint --save-dev
 ```
 
-Next, install `eslint-plugin-curly`:
+Next, install `enchanted-curly`:
 
 ```
-$ npm install eslint-plugin-curly --save-dev
+$ npm install enchanted-curly --save-dev
 ```
 
 **Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `eslint-plugin-curly` globally.
@@ -25,7 +25,7 @@ Add `curly` to the plugins section of your `.eslintrc` configuration file. You c
 ```json
 {
   "plugins": [
-    "curly"
+    "enchanted-curly"
   ]
 }
 ```
@@ -36,7 +36,7 @@ Then configure the rules you want to use under the rules section.
 ```json
 {
   "rules": {
-    "curly/rule-name": 2
+    "enchanted-curly/rule-name": 2
   }
 }
 ```
