@@ -397,19 +397,19 @@ const bar = {
 
 				errors: [
 					{
-						message: "A line break is required after '{'."
+						message: "A linebreak is required after '{'."
 					},
 
 					{
-						message: "A line break is required before '}'."
+						message: "A linebreak is required before '}'."
 					},
 
 					{
-						message: "There should be no line break after '{'."
+						message: "There should be no linebreak after '{'."
 					},
 
 					{
-						message: "There should be no line break before '}'."
+						message: "There should be no linebreak before '}'."
 					}
 				],
 
@@ -450,11 +450,11 @@ const bar2 = {a: 1, b: 2};
 
 				errors: [
 					{
-						message: "There should be no line break after '{'."
+						message: "There should be no linebreak after '{'."
 					},
 
 					{
-						message: "There should be no line break before '}'."
+						message: "There should be no linebreak before '}'."
 					},
 
 					{
@@ -466,11 +466,11 @@ const bar2 = {a: 1, b: 2};
 					},
 
 					{
-						message: "A line break is required after '{'."
+						message: "A linebreak is required after '{'."
 					},
 
 					{
-						message: "A line break is required before '}'."
+						message: "A linebreak is required before '}'."
 					},
 
 					{
@@ -514,11 +514,11 @@ import {
 
 				errors: [
 					{
-						message: "There should be no line break after '{'."
+						message: "There should be no linebreak after '{'."
 					},
 
 					{
-						message: "There should be no line break before '}'."
+						message: "There should be no linebreak before '}'."
 					}
 				],
 
@@ -559,11 +559,11 @@ export {
 
 				errors: [
 					{
-						message: "A line break is required after '{'."
+						message: "A linebreak is required after '{'."
 					},
 
 					{
-						message: "A line break is required before '}'."
+						message: "A linebreak is required before '}'."
 					}
 				],
 
@@ -589,11 +589,11 @@ export {
 
 				errors: [
 					{
-						message: "There should be no line break after '{'."
+						message: "There should be no linebreak after '{'."
 					},
 
 					{
-						message: "There should be no line break before '}'."
+						message: "There should be no linebreak before '}'."
 					}
 				],
 
