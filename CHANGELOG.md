@@ -11,12 +11,12 @@ Changelog
 
 _Note: Gaps between patch versions are faulty, broken or test releases._
 
-## v1.1.0 (2022-??-??)
+## v1.1.0 (2022-08-03)
 
 #### :house: Internal
 
-* Up eslint version
-* Refactor code for compatibility with new eslint version
+* :up: `eslint@8.21.0`
+* Refactored code for compatibility with the new version of eslint
 
 ## v1.0.1 (2020-06-10)
 

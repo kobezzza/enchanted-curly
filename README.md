@@ -30,7 +30,6 @@ Add `curly` to the plugins section of your `.eslintrc` configuration file. You c
 }
 ```
 
-
 Then configure the rules you want to use under the rules section.
 
 ```json
@@ -44,4 +43,3 @@ Then configure the rules you want to use under the rules section.
 ## Supported Rules
 
 * [object-curly-spacing](docs/rules/object-curly-spacing.md)
-
