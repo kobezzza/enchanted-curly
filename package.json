@@ -2,7 +2,7 @@
   "name": "eslint-plugin-enchanted-curly",
   "description": "A set of more customizable rules for eslint/curly",
   "homepage": "https://github.com/kobezzza/eslint-plugin-enchanted-curly#readme",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "license": "MIT",
   "main": "lib/index.js",
   "author": {
@@ -38,8 +38,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "babel-eslint": "10.1.0",
-    "eslint": "7.2.0",
-    "husky": "4.2.5"
+    "eslint": "8.21.0",
+    "husky": "8.0.1"
   }
 }

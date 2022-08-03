@@ -5,7 +5,6 @@ const
 	{rules} = require('../lib');
 
 const parser = {
-	parser: require.resolve('babel-eslint'),
 	parserOptions: {
 		ecmaVersion: 8,
 		sourceType: 'module'
